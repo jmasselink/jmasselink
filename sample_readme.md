@@ -1,4 +1,6 @@
-# Hi there, I'm Joel Masselink 👋
+## Hi there, I'm Joel Masselink 👋
+[![Gmail](https://img.shields.io/badge/-jmasselink@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jmasselink@gmail.com "Connect via Email")
+[![Linkedin](https://img.shields.io/badge/-Joel%20Masselink-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmasselink/ "Connect on LinkedIn")
 
 <!-- ## 🌍 Geo-Nerd & Code Whisperer 🤓 -->
 
