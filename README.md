@@ -27,9 +27,10 @@ I am a humanitarian and conservationist. I love working with maps and geographic
 
 (listed transparently in order of expertise)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/6/60/PostGIS_logo.png" alt="PostGIS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 <img src="https://gdal.org/_static/gdalicon.png" alt="GDAL/OGR" width="40" height="40"/> 
 <img src="https://evidence.gallerycdn.vsassets.io/extensions/evidence/sqltools-duckdb-driver/0.0.4/1693390839333/Microsoft.VisualStudio.Services.Icons.Default" alt="duckdb" width="40" height="40"/>
 <img src="https://docs.streamlit.io/logo.svg" alt="Streamlit" width="40" height="40"/>
