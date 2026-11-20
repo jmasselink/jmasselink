@@ -17,6 +17,7 @@ I am a humanitarian and conservationist. I love working with maps and geographic
 
 ### What I'm Up To 🏢
 
+- Instructing [Geovisualization & Cartography](https://bulletin.gwu.edu/search/?P=GEOG+4310) at The George Washington University.
 - Developing data engineering workflows to maintain the [SBA HUBZone Map](https://maps.certify.sba.gov/hubzone/map).
 - GDAL/OGR, PostGIS, Pandas, and more.
 - Always learning, currently diving into **DuckDB** and **Parquet**.
